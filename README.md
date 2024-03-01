@@ -4,8 +4,11 @@
 
 # getgrass_bot
 
-`pip3 install websockets_proxy`
+`pip install -r requirements.txt`
 
+或者: 
+
+`pip3 install websockets_proxy`
 
 `pip3 install loguru`
 
@@ -17,7 +20,7 @@
 
 ### 邀请链接
 
-https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
+https://app.getgrass.io/register/?referralCode=gm2TmdadbwS77Dd
 
 ### user_id获取方法
 
@@ -29,6 +32,7 @@ https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
 
 打印的就是当前用户的user_id
 
+3.使用ip代理https://www.tyhttp.com/?invitation_code=8889627300
 
 ![0001](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/31d0e16e-df2f-443a-a141-910d16052ed9)
 
